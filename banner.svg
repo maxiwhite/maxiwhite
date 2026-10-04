@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" fill="none" role="img" aria-label="Maximilien White">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#060910"/><stop offset="0.55" stop-color="#0b1120"/><stop offset="1" stop-color="#0e1526"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#94a3b8"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientTransform="translate(1290 90) scale(330)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.42"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0" cy="0" r="1" gradientTransform="translate(300 400) scale(300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.30"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g3" cx="0" cy="0" r="1" gradientTransform="translate(900 430) scale(260)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0.28"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#1e293b" stroke-width="1" stroke-opacity="0.45"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#grid)"/>
+  <circle cx="1290" cy="90" r="330" fill="url(#g1)"/>
+  <circle cx="300" cy="400" r="300" fill="url(#g2)"/>
+  <circle cx="900" cy="430" r="260" fill="url(#g3)"/>
+  <g opacity="0.9">
+    <polygon points="1290,120 1370,166 1370,258 1290,304 1210,258 1210,166" fill="none" stroke="#22d3ee" stroke-width="2" stroke-opacity="0.65"/>
+    <polygon points="1290,158 1336,184 1336,236 1290,262 1244,236 1244,184" fill="none" stroke="#6366f1" stroke-width="2" stroke-opacity="0.85"/>
+    <polygon points="1290,196 1302,203 1302,217 1290,224 1278,217 1278,203" fill="#a855f7" fill-opacity="0.9"/>
+  </g>
+  <text x="110" y="176" font-family="Inter,Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="-1.5" fill="url(#txt)">MAXIMILIEN WHITE</text>
+  <text x="112" y="222" font-family="Inter,Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="500" fill="#64748b">Systems architect  ·  Uniformity  ·  RESELL</text>
+  <rect x="110" y="258" width="520" height="4" rx="2" fill="url(#line)"/>
+  <text x="112" y="308" font-family="Inter,Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="18" font-weight="400" fill="#94a3b8">Separate systems. Shared truth. Measurable progress.</text>
+</svg>
